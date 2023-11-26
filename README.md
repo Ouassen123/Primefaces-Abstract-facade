@@ -10,3 +10,6 @@
 ![5](https://github.com/Ouassen123/Primefaces-Abstract-facade/assets/104273085/8f8b2c36-b6ee-4111-9c9d-30e781a061b4)
 
 ![1](https://github.com/Ouassen123/Primefaces-Abstract-facade/assets/104273085/08a70fc2-bfba-4610-90a5-2a968da65fe1)
+
+
+![2](https://github.com/Ouassen123/Primefaces-Abstract-facade/assets/104273085/d713900d-e541-4cd4-8023-ec3af9282b7c)
